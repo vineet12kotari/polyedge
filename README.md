@@ -162,12 +162,6 @@ uvicorn api.server:app --port 8000
 # open http://localhost:8000
 ```
 
-**5. Share publicly (ngrok)**
-```bash
-ngrok http 8000
-# gives you a public https://xxxx.ngrok.io URL
-```
-
 ---
 
 ## Configuration
@@ -210,26 +204,6 @@ Built for **Orderflow 001** — 48-hour on-chain trading sprint (March 22–24, 
 
 Track: Quantitative Trading + On-Chain Intelligence
 
-- GitHub: [link]
+- GitHub: [https://github.com/vineet12kotari/polyedge](https://github.com/vineet12kotari/polyedge)
 - Demo video: [link]
-- Devpost: [link]
 
----
-
-## License
-
-MIT
-
----
-
-## Submission
-
-- GitHub: [link]
-- Demo video: [link]
-- Hackathon: Orderflow 001 — March 22–24, 2026
-
----
-
-## License
-
-MIT
