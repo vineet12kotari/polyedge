@@ -205,5 +205,5 @@ Built for **Orderflow 001** — 48-hour on-chain trading sprint (March 22–24, 
 Track: Quantitative Trading + On-Chain Intelligence
 
 - GitHub: [https://github.com/vineet12kotari/polyedge](https://github.com/vineet12kotari/polyedge)
-- Demo video: [link]
+- Demo video: [https://youtu.be/-FkZ-GTNaJ4](https://youtu.be/-FkZ-GTNaJ4)
 
