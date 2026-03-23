@@ -3,6 +3,8 @@
 > Automated prediction market arbitrage scanner and high-probability yield harvester.
 > Built for Orderflow 001 — 48-hour on-chain trading sprint.
 
+![PolyEdge Banner](images/polyedge_main.jpeg)
+
 ---
 
 ## What is this?
