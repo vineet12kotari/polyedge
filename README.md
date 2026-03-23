@@ -206,4 +206,5 @@ Track: Quantitative Trading + On-Chain Intelligence
 
 - GitHub: [https://github.com/vineet12kotari/polyedge](https://github.com/vineet12kotari/polyedge)
 - Demo video: [https://youtu.be/-FkZ-GTNaJ4](https://youtu.be/-FkZ-GTNaJ4)
+- Deployment URL: [https://web-production-25739.up.railway.app/](https://web-production-25739.up.railway.app/)
 
